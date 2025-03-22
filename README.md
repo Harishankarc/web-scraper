@@ -1,4 +1,4 @@
-Image Scraper 🚀
+#Image Scraper 🚀
 A Python-based web scraper that downloads high-quality images using Selenium and BeautifulSoup. This script automates image extraction and saves them locally for offline use.
 
 Features 🛠️
